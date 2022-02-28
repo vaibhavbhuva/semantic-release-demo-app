@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.2.2...v2.2.3) (2022-02-28)
+
+
+### Bug Fixes
+
+* **update:** test ([03be184](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/03be184ad186e4629481277a80d3c872cece1837))
+
 ## [2.2.2](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.2.1...v2.2.2) (2022-02-28)
 
 

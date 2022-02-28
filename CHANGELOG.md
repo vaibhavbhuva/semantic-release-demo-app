@@ -1,3 +1,16 @@
+# [2.2.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.1.0...v2.2.0) (2022-02-28)
+
+
+### Bug Fixes
+
+* **doc:** release file update ([97d7be5](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/97d7be5fe80162efe0ba61b548d403ac91b6864f))
+* **doc:** updated index.js file ([a812881](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/a8128817b08ec83806d16af02716e336b36a995f))
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([48bb3fe](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/48bb3fe0a96a85abf821b457c96fc8d7e9543cab))
+
 # [2.1.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.0.0...v2.1.0) (2022-02-28)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-demo-app",
-  "version": "0.0.0-development",
+  "version": "2.0.0",
   "description": "semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package.",
   "main": "index.js",
   "scripts": {

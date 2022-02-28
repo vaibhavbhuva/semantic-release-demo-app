@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.0.0...v2.1.0) (2022-02-28)
+
+
+### Features
+
+* **API:** Add a new method to the public API ([54b8a4e](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/54b8a4ec2f08d8ca196a1ca89145fe43793d7e79))
+
 # [2.0.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v1.1.1...v2.0.0) (2022-02-25)
 
 

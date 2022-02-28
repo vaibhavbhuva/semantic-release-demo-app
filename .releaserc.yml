@@ -9,8 +9,9 @@
         }
       ],
       "@semantic-release/changelog",
-      "@semantic-release/git"
-    ],
-    "preset": "angular"
-    "branch": "master"
+      "@semantic-release/git",
+      "@semantic-release/github"
+  ],
+  "preset": "angular",
+  "branch": "master"
 }

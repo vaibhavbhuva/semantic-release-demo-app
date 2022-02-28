@@ -26,21 +26,6 @@
     "@semantic-release/release-notes-generator": "^10.0.3",
     "semantic-release": "^19.0.2"
   },
-  "release": {
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      [
-        "@semantic-release/npm",
-        {
-          "npmPublish": false
-        }
-      ],
-      "@semantic-release/changelog",
-      "@semantic-release/git"
-    ],
-    "branch": "master"
-  },
   "dependencies": {
     "@semantic-release/github": "^8.0.2"
   }

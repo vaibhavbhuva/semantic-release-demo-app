@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-demo-app",
-  "version": "2.0.0",
+  "version": "2.2.4",
   "description": "semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package.",
   "main": "index.js",
   "scripts": {
@@ -25,21 +25,6 @@
     "@semantic-release/npm": "^9.0.0",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "semantic-release": "^19.0.2"
-  },
-  "release": {
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      [
-        "@semantic-release/npm",
-        {
-          "npmPublish": false
-        }
-      ],
-      "@semantic-release/changelog",
-      "@semantic-release/git"
-    ],
-    "branch": "master"
   },
   "dependencies": {
     "@semantic-release/github": "^8.0.2"

@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.2.4...v2.2.5) (2022-03-01)
+
+
+### Bug Fixes
+
+* **index:** updated index functionality MERGED ([fa8f688](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/fa8f6881398b1956fb7460276e575b9f62fdd026)), closes [#SB-12345](https://github.com/vaibhavbhuva/semantic-release-demo-app/issues/SB-12345)
+
 ## [2.2.4](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.2.3...v2.2.4) (2022-03-01)
 
 

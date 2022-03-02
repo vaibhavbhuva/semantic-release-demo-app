@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.3.0...v3.0.0) (2022-03-02)
+
+
+### Features
+
+* added new line ([a303d1f](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/a303d1f5e65f03b5e3b7d99198f8204831e89b79))
+
+
+### BREAKING CHANGES
+
+* The graphiteWidth option has been removed. 
+The default graphite width of 10mm is always used for performance reasons.
+
 # [2.3.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v2.2.5...v2.3.0) (2022-03-02)
 
 

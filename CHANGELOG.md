@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v5.0.0...v5.0.1) (2022-04-08)
+
+
+### Bug Fixes
+
+* updated  file ([506046d](https://github.com/vaibhavbhuva/semantic-release-demo-app/commit/506046d83fb0c77de71357e283556970ed775000))
+
 # [5.0.0](https://github.com/vaibhavbhuva/semantic-release-demo-app/compare/v4.0.0...v5.0.0) (2022-03-02)
 
 
